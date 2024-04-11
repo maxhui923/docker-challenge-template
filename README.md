@@ -1,4 +1,4 @@
-Here are the learning outcomes for each challenge in the Docker project
+Here are the learning outcomes for each challenge in the Docker project:
 
 Challenge 1 - Simple web server for static web pages
 
@@ -8,8 +8,6 @@ Container Deployment: Deploy a Docker container and access the served content th
 Version Control with Git and GitHub: Use Git and GitHub to manage code versions and collaborate with others.
 Documentation and Reporting: Write a comprehensive report documenting the steps taken, including screenshots and explanations.
 
-
-
 Challenge 2 - Creating a dynamic application
 
 Docker Compose: Introduce the concept of Docker Compose for orchestrating multiple containers.
@@ -17,8 +15,6 @@ Containerization of NodeJS Application: Dockerize a NodeJS application using a D
 Service Orchestration: Use Docker Compose to define and manage multiple services (e.g., NGinx, API server).
 Testing and Troubleshooting: Verify that all services are running correctly and troubleshoot any issues that arise.
 Submission and Documentation: Submit the project repository's URL and provide a detailed report on the steps taken, including screenshots and explanations.
-
-
 
 Challenge 3 - Full stack application
 
@@ -28,8 +24,6 @@ Docker Compose: Gain proficiency in writing a docker-compose.yml file to orchest
 Database Integration: Integrate a database (MySQL/MariaDB) into the application stack and ensure proper communication between the application and the database.
 Testing and Validation: Verify that all services are running correctly and that the application responds as expected when accessed through a browser.
 Documentation and Reporting: Produce a detailed report documenting the configuration variables, steps taken, and outcomes achieved. Include screenshots and explanations in your documentation.
-
-
 
 Challenge 4 - Scaling up an application
 
